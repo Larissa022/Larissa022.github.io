@@ -1,0 +1,34 @@
+body{
+	text-align: center;
+	background-image: url("/home/larissa/Códigos Html/adesivo-de-parede-poa-bolinhas-cinza-com-fundo-branco-3mt-papel-de-parede-abstrato-full-hd.jpg");
+	 background-size: 50% ;
+}
+
+h1{
+	color: black;
+	background-color: white;
+	font-style: italic;
+	font-size: 30px;
+}
+
+h2,h3{
+	text-align: left;
+	color: rgb(224, 247, 250);
+	background-color: rgb(83, 109, 254);
+	font-family: arial;
+}
+
+p{
+	color: rgb(26, 35, 126);
+	font-size: 15px;
+	font-style: italic;
+	font-family: sans-serif;
+}
+
+a{
+	background-color: rgb(225, 245, 254);
+	text-align: right;
+	text-decoration: none;
+}
+
+
